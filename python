@@ -4,7 +4,7 @@
 # Required variables Credit and APR are harded coded here. 
 limit=5000
 apr=0.365
-dailyinterest = apr/3650
+dailyinterest = apr/365
 bal = limit
 apr_read = apr * 100
 interestSum = []
