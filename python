@@ -1,7 +1,7 @@
 # Line of Credit Code Sample
 # by Abby Abraham
 
-# Required variables Credit and APR are harded coded here. 
+# At the top are the required variables. Credit Limit and APR are harded coded here. 
 limit=5000
 apr=0.365
 dailyinterest = apr/365
@@ -92,3 +92,4 @@ raw_input("Press Enter to see your monthly payment...")
 print("\n")
 print "Payment Due: $", W
 print("\n")
+#Thanks!!
